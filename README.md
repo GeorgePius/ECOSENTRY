@@ -1,2 +1,3 @@
 # ECOSENTRY
-mini project : the project is about waste reporting in your surrounding localities
+mini project :
+the project is about waste reporting in your surrounding localities
